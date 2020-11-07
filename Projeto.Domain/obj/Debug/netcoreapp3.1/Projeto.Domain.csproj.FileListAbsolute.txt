@@ -1,0 +1,54 @@
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.deps.json
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.deps.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.deps.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.deps.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.deps.json
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.AssemblyInfo.cs
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.deps.json
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Domain\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.AssemblyInfo.cs
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.pdb

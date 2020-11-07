@@ -1,0 +1,90 @@
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.deps.json
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.json
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csproj.CopyComplete
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.deps.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csproj.CopyComplete
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.deps.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csproj.CopyComplete
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.deps.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csproj.CopyComplete
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.genruntimeconfig.cache
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.deps.json
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.json
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfo.cs
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csproj.CopyComplete
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.genruntimeconfig.cache
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.deps.json
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.json
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfo.cs
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csproj.CopyComplete
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.genruntimeconfig.cache

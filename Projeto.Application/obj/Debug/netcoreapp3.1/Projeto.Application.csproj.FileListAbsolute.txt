@@ -1,0 +1,72 @@
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Application.deps.json
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Application.dll
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Application.pdb
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csproj.CopyComplete
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.dll
+C:\Users\lucas\source\repos\ProjetoFinalDDD\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Application.deps.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Application.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Application.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csproj.CopyComplete
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Application.deps.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Application.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Application.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csproj.CopyComplete
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Application.deps.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Application.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Application.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csproj.CopyComplete
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.pdb
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Application.deps.json
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Application.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Application.pdb
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.AssemblyInfo.cs
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csproj.CopyComplete
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.pdb
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Application.deps.json
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Application.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Application.pdb
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.AssemblyInfo.cs
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csproj.CopyComplete
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.pdb

@@ -1,0 +1,380 @@
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.exe
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Application.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Application.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.csproj.CopyComplete
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.Presentation.StaticWebAssets.Manifest.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.Presentation.StaticWebAssets.xml
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.deps.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.runtimeconfig.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.exe
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.deps.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.runtimeconfig.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Application.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Application.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.csproj.CopyComplete
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.Presentation.StaticWebAssets.Manifest.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.Presentation.StaticWebAssets.xml
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalDDD - Errata\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.exe
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.deps.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.runtimeconfig.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Application.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Application.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.csproj.CopyComplete
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.Presentation.StaticWebAssets.Manifest.cache
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.Presentation.StaticWebAssets.xml
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoFinalCoti\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.genruntimeconfig.cache
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.exe
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.deps.json
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.runtimeconfig.json
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.pdb
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Application.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Application.pdb
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.AssemblyInfo.cs
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.csproj.CopyComplete
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.Presentation.StaticWebAssets.Manifest.cache
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.Presentation.StaticWebAssets.xml
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.dll
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.pdb
+C:\Users\lucas\Desktop\GHub\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.genruntimeconfig.cache
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.exe
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.deps.json
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.runtimeconfig.json
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Presentation.pdb
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Application.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Application.pdb
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.AssemblyInfo.cs
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.csproj.CopyComplete
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.Presentation.StaticWebAssets.Manifest.cache
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.Presentation.StaticWebAssets.xml
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.dll
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.pdb
+C:\Users\lucas\Desktop\GHub\Projetos Finalizados\Projeto Final - Coti\ProjetoFinal-Backend-master\Projeto.Presentation\obj\Debug\netcoreapp3.1\Projeto.Presentation.genruntimeconfig.cache
