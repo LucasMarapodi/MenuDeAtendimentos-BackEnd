@@ -1,7 +1,7 @@
 # Menu De Atendimentos - BackEnd
 
 ## Objetivo :
-- BackEnd criado em modelo DDD, utilizando C# e Entity Framework. 
+- BackEnd criado em modelo DDD, utilizando C#, Entity Framework e swagger. 
 
 ## Como Executar : 
 - É necessario executar o Entity Framework para gerar o banco de dados.
